@@ -82,7 +82,5 @@ Inventory-Management-Analysis/
 │
 ├── README.md
 ├── Inventory_Management_Data.csv
-├── Inventory_Management_Analysis.xlsx
-│
 └── assets/
     └── dashboard-preview.png
