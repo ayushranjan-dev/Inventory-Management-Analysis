@@ -18,7 +18,11 @@ The project focuses on providing a structured view of stock levels, reorder requ
 
 ## Dashboard Preview
 
+<img width="1503" height="640" alt="screenshot_1" src="https://github.com/user-attachments/assets/b798fa38-a006-47e1-8694-ce949672803d" />
 
+<img width="1503" height="640" alt="screenshot_2" src="https://github.com/user-attachments/assets/9a698115-0918-4b9b-a478-b688e2121f30" />
+
+<img width="1500" height="642" alt="screenshot_3" src="https://github.com/user-attachments/assets/901f8260-c1ee-4d40-84f6-d58361a31cf8" />
 
 ## Tools & Technologies
 
